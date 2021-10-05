@@ -1,0 +1,10 @@
+Purchased Parts:
+4053
+LM358AD
+4066BD_5V
+4027BD_5v
+
+These parts should be in the Parts Store:
+4516BD_5V
+4009BD_5V
+4081BD_5V
